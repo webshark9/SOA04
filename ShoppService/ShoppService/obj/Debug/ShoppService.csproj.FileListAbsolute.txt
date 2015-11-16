@@ -1,0 +1,6 @@
+C:\Users\Jordan Poirier\Documents\Visual Studio 2015\Projects\SOA04\ShoppService\ShoppService\bin\ShoppService.dll.config
+C:\Users\Jordan Poirier\Documents\Visual Studio 2015\Projects\SOA04\ShoppService\ShoppService\bin\ShoppService.dll
+C:\Users\Jordan Poirier\Documents\Visual Studio 2015\Projects\SOA04\ShoppService\ShoppService\bin\ShoppService.pdb
+C:\Users\Jordan Poirier\Documents\Visual Studio 2015\Projects\SOA04\ShoppService\ShoppService\obj\Debug\ShoppService.csprojResolveAssemblyReference.cache
+C:\Users\Jordan Poirier\Documents\Visual Studio 2015\Projects\SOA04\ShoppService\ShoppService\obj\Debug\ShoppService.dll
+C:\Users\Jordan Poirier\Documents\Visual Studio 2015\Projects\SOA04\ShoppService\ShoppService\obj\Debug\ShoppService.pdb
